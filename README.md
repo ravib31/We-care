@@ -1,4 +1,4 @@
-It is a Computer Institute website where you can take a idea about the college program and campus tour,it is totally responsive.
+It is a Freelancing project for a Computer Institute where you can take a idea about the college program and campus tour,it is totally responsive.
 
 Tech-
  1-React + Vite,
